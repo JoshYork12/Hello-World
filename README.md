@@ -1,2 +1,2 @@
 # Hello-World
-this is a Test repository
+this is a Little bit about me. I like football
